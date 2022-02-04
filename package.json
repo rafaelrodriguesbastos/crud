@@ -1,0 +1,28 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "CRUD exemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Erro ao executar\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelrodriguesbastos/crud.git"
+  },
+  "keywords": [
+    "CRUD",
+    "exemplo",
+    "Node.js",
+    "MySQL"
+  ],
+  "author": "Rafael Bastos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelrodriguesbastos/crud/issues"
+  },
+  "homepage": "https://github.com/rafaelrodriguesbastos/crud#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
